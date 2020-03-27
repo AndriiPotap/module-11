@@ -9,16 +9,14 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  // "homepage": "https://derda-vs.github.io/goit-fe-course/html-css/module-11/build/",
+  "homepage": "https://andriipotap.github.io/module-11/build/",
   "repository": {
     "type": "git",
-    // "url": "git+https://github.com/derda-vs/goit-fe-course"
+    "url": "git+https://github.com/AndriiPotap/module-11"
   },
-  // "author": "Vitaliy Derda <derda_vs@ukr.net>",
+  "author": "Andrii Potapenko <andrew.potapenko47@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    // "url": "https://github.com/derda-vs/goit-fe-course/tree/master/html-css/module-11/issues"
-  },
+ 
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
